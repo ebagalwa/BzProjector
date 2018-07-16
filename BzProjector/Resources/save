@@ -1,0 +1,10 @@
+            int selLang = 0;
+            for (int i = 0; i < langa.GetLength(0); i++)
+            {
+                if (lines[1] == langa[0, i])
+                {
+                    selLang = i;
+                    break;
+                }
+            }
+            checkBox1.Text = langa[1, selLang];

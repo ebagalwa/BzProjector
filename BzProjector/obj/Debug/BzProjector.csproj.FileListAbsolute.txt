@@ -1,0 +1,94 @@
+C:\Users\HP\Documents\2017\JW\BzProjector\BzProjector\bin\Debug\BzProjector.exe.config
+C:\Users\HP\Documents\2017\JW\BzProjector\BzProjector\bin\Debug\BzProjector.exe
+C:\Users\HP\Documents\2017\JW\BzProjector\BzProjector\bin\Debug\BzProjector.pdb
+C:\Users\HP\Documents\2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.Form1.resources
+C:\Users\HP\Documents\2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.Properties.Resources.resources
+C:\Users\HP\Documents\2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.exe
+C:\Users\HP\Documents\2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.pdb
+C:\Users\HP\Documents\2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.Form2.resources
+C:\Users\HP\Documents\2017\JW\BzProjector\BzProjector\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Documents\2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.csproj.ResolveComReference.cache
+C:\Users\HP\Documents\2017\JW\BzProjector\BzProjector\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Documents\2017\JW\BzProjector\BzProjector\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Documents\2017\JW\BzProjector\BzProjector\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\bin\Debug\BzProjector.exe.config
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\bin\Debug\BzProjector.exe.manifest
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\bin\Debug\BzProjector.application
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\bin\Debug\BzProjector.exe
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\bin\Debug\BzProjector.pdb
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\bin\Debug\taglib-sharp.dll
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\bin\Debug\Interop.WMPLib.dll
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\obj\Debug\BzProjector.csprojResolveAssemblyReference.cache
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\obj\Debug\Interop.WMPLib.dll
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\obj\Debug\BzProjector.csproj.ResolveComReference.cache
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\obj\Debug\BzProjector.Form1.resources
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\obj\Debug\BzProjector.Form2.resources
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\obj\Debug\BzProjector.Properties.Resources.resources
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\obj\Debug\BzProjector.csproj.GenerateResource.Cache
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\obj\Debug\BzProjector.csproj.CoreCompileInputs.cache
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\obj\Debug\BzProjector.exe.manifest
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\obj\Debug\BzProjector.application
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\obj\Debug\BzProjector.exe
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\obj\Debug\BzProjector.pdb
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\bin\Debug\languages.csv
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\bin\Debug\Dependencies\config
+C:\Users\Adminstrator-Tek\Documents\JW\BzProjector\BzProjector\bin\Debug\config
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\bin\Debug\languages.csv
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\bin\Debug\Dependencies\config
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\bin\Debug\config
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\bin\Debug\BzProjector.exe.config
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\bin\Debug\BzProjector.exe.manifest
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\bin\Debug\BzProjector.application
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\bin\Debug\BzProjector.exe
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\bin\Debug\BzProjector.pdb
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\bin\Debug\taglib-sharp.dll
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\obj\Debug\BzProjector.csprojResolveAssemblyReference.cache
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\obj\Debug\BzProjector.csproj.ResolveComReference.cache
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\obj\Debug\BzProjector.Form1.resources
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\obj\Debug\BzProjector.Form2.resources
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\obj\Debug\BzProjector.Properties.Resources.resources
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\obj\Debug\BzProjector.csproj.GenerateResource.Cache
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\obj\Debug\BzProjector.csproj.CoreCompileInputs.cache
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\obj\Debug\BzProjector.exe.manifest
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\obj\Debug\BzProjector.application
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\obj\Debug\BzProjector.exe
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\Projects\BzProjector\BzProjector\obj\Debug\BzProjector.pdb
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\bin\Debug\languages.csv
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\bin\Debug\Dependencies\config
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\bin\Debug\config
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\bin\Debug\BzProjector.exe.config
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\bin\Debug\BzProjector.exe.manifest
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\bin\Debug\BzProjector.application
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\bin\Debug\BzProjector.exe
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\bin\Debug\BzProjector.pdb
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\bin\Debug\taglib-sharp.dll
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.csprojAssemblyReference.cache
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.csproj.ResolveComReference.cache
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.Form1.resources
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.Form2.resources
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.Properties.Resources.resources
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.csproj.GenerateResource.cache
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.csproj.CoreCompileInputs.cache
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.exe.manifest
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.application
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.csproj.CopyComplete
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.exe
+C:\Users\Eric Bagalwa\Documents\Visual Studio 2017\JW\BzProjector\BzProjector\obj\Debug\BzProjector.pdb
